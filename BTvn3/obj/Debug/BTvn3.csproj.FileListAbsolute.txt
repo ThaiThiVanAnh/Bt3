@@ -1,0 +1,11 @@
+C:\Users\HAI DANG LAPTOP\source\repos\BTvn3\BTvn3\bin\Debug\BTvn3.exe.config
+C:\Users\HAI DANG LAPTOP\source\repos\BTvn3\BTvn3\bin\Debug\BTvn3.exe
+C:\Users\HAI DANG LAPTOP\source\repos\BTvn3\BTvn3\bin\Debug\BTvn3.pdb
+C:\Users\HAI DANG LAPTOP\source\repos\BTvn3\BTvn3\obj\Debug\BTvn3.csproj.AssemblyReference.cache
+C:\Users\HAI DANG LAPTOP\source\repos\BTvn3\BTvn3\obj\Debug\BTvn3.Form1.resources
+C:\Users\HAI DANG LAPTOP\source\repos\BTvn3\BTvn3\obj\Debug\BTvn3.FrmNhanVien.resources
+C:\Users\HAI DANG LAPTOP\source\repos\BTvn3\BTvn3\obj\Debug\BTvn3.Properties.Resources.resources
+C:\Users\HAI DANG LAPTOP\source\repos\BTvn3\BTvn3\obj\Debug\BTvn3.csproj.GenerateResource.cache
+C:\Users\HAI DANG LAPTOP\source\repos\BTvn3\BTvn3\obj\Debug\BTvn3.csproj.CoreCompileInputs.cache
+C:\Users\HAI DANG LAPTOP\source\repos\BTvn3\BTvn3\obj\Debug\BTvn3.exe
+C:\Users\HAI DANG LAPTOP\source\repos\BTvn3\BTvn3\obj\Debug\BTvn3.pdb
